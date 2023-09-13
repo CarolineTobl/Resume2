@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(253, 233, 252);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.leftalign
+{
+    text-align: left;
+}
+
+.underlinecolor
+{
+    text-decoration: underline;
+    color: rgb(255, 0, 234);
+}
+
+img {
+    border: 10px solid rgb(253, 14, 225);
+  }
+
+.textstyle{
+    font-style: italic;
+}
+
+.textsize {
+    font-size: x-large;
+}
+
+.bold {
+    font-style: italic;
+    color: blue;
+    text-decoration: underline;
+}
